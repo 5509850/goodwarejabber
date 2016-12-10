@@ -17,5 +17,6 @@ namespace Goodware.Jabber.GUI {
 		public override string ToString() {
 			return this.Text;
 		}
+		
 	}
 }
